@@ -1,6 +1,10 @@
 [package]
 name = "stalin-compression"
 version = "0.1.0"
+authors = ["Leon Cotten"]
+description = "A highly advanced compression algorithm"
+license = "MIT"
+repository = "https://github.com/H4drian/stalin-compression"
 edition = "2021"
 
 [dependencies]
