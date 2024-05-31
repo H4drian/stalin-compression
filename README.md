@@ -8,3 +8,5 @@ not change depending on the size of the input along
 with the amount of used memory (*O(1)*). This makes Stalin 
 compression one of the greatest compression algorithms to
 date.
+
+To install add `stalin-sort` to your rust project's dependencies or use `cargo add stalin-sort`
